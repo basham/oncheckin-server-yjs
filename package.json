@@ -1,0 +1,22 @@
+{
+  "name": "oncheckin-server-yjs",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "y-websocket": "1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basham/oncheckin-server-yjs.git"
+  },
+  "author": "Chris Basham <chris@bash.am>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basham/oncheckin-server-yjs/issues"
+  },
+  "homepage": "https://github.com/basham/oncheckin-server-yjs#readme"
+}
