@@ -16,8 +16,8 @@
     "yjs": "13.6.1"
   },
   "engines": {
-    "node": ">= 16",
-    "npm": ">= 8"
+    "node": "16.x",
+    "npm": "8.x"
   },
   "repository": {
     "type": "git",
