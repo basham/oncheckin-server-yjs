@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "YPERSISTENCE=./.data y-websocket"
+    "start": "YPERSISTENCE=./.data/db y-websocket"
   },
   "dependencies": {
     "y-leveldb": "0.1.2",
     "y-websocket": "1.5.0",
-    "yjs": "13.5.51"
+    "yjs": "13.6.1"
   },
   "engines": {
     "node": ">= 16"
